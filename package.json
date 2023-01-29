@@ -1,0 +1,19 @@
+{
+  "name": "com.aurore.dialogue-system",
+  "version": "1.0.0",
+  "displayName": "Dialogue System",
+  "description": "This extension enables you to create a dialogue system through a graph editor.",
+  "unity": "2021.3",
+  "keywords": [
+    "dialogue",
+    "graph"
+  ],
+  "author": {
+    "name": "Hugo Da Ma\u00efa",
+    "email": "hdamaia@outlook.fr",
+    "url": "https://www.hdamaia.fr"
+  },
+  "dependencies": {
+    "com.github.siccity.xnode": ""
+  }
+}
